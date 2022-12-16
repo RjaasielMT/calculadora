@@ -1,0 +1,27 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calculatore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RjaasielMT/calculadora.git"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "Rebeca Meneses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RjaasielMT/calculadora/issues"
+  },
+  "homepage": "https://github.com/RjaasielMT/calculadora#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
